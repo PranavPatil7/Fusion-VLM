@@ -1,6 +1,6 @@
-# Building Your Own Multimodal Large Model from Scratch
+### Fusion VLM – Multimodal Vision Language Transformer                                                           
 
-For the Chinese version of the README, please refer to [中文文档](README_zh.md).
+
 
 ## Code Explanation 💻
 
@@ -148,11 +148,3 @@ Thanks to the great work of the following projects 🙌:
 - https://github.com/WatchTower-Liu/VLM-learning/tree/main
 - https://github.com/QwenLM/Qwen
 - https://github.com/haotian-liu/LLaVA
-
-## Contact ✉
-
-If you have any questions or ideas, feel free to contact me 😊:
-
-hsinyanghuang7@gmail.com
-
-I will reply as soon as I see the email!
