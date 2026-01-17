@@ -1,0 +1,1 @@
+python test.py --base_language_model Qwen/Qwen-7B-Chat --base_value_model google/siglip-so400m-patch14-384 --model_weights ./weights/train_V1_5/checkpoint-36000/ --image_path ./test_img/1.jpg --prompt "使用语言描述一下这幅图<|extra_0|>"
